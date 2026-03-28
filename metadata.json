@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Rajiv Palace",
+  "description": "A minimal hotel booking system with PostgreSQL, Prisma, and Razorpay integration.",
+  "requestFramePermissions": []
+}
